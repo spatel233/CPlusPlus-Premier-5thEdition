@@ -1,0 +1,12 @@
+﻿Build started 5/21/2015 5:40:36 PM.
+     1>Project "C:\Users\Sajjad\OneDrive\References\C++ Advanced Reference\Chapter 1\Excercise 1.7\Excercise 1.7\Excercise 1.7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\sajjad\onedrive\references\c++ advanced reference\chapter 1\excercise 1.7\excercise 1.7\source.cpp(4): warning C4138: '*/' found outside of comment
+     1>c:\users\sajjad\onedrive\references\c++ advanced reference\chapter 1\excercise 1.7\excercise 1.7\source.cpp(4): error C2059: syntax error : '/'
+     1>Done Building Project "C:\Users\Sajjad\OneDrive\References\C++ Advanced Reference\Chapter 1\Excercise 1.7\Excercise 1.7\Excercise 1.7.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.45

@@ -1,0 +1,19 @@
+﻿Build started 11/12/2015 9:46:11 PM.
+     1>Project "C:\Users\Sajjad\SkyDrive\References\C++ Advanced Reference\Chapter 10\Exercise 10.5\Exercise 10.5\Exercise 10.5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2798): error C4996: 'std::_Equal1': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xutility(2783) : see declaration of 'std::_Equal1'
+                 c:\users\sajjad\skydrive\references\c++ advanced reference\chapter 10\exercise 10.5\exercise 10.5\source.cpp(12) : see reference to function template instantiation 'bool std::equal<_Ty*,_Ty*>(_InIt1,_InIt1,_InIt2)' being compiled
+                 with
+                 [
+                     _Ty=char
+         ,            _InIt1=char *
+         ,            _InIt2=char *
+                 ]
+     1>Done Building Project "C:\Users\Sajjad\SkyDrive\References\C++ Advanced Reference\Chapter 10\Exercise 10.5\Exercise 10.5\Exercise 10.5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.64
